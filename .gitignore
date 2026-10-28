@@ -1,0 +1,11 @@
+# Local tools, account settings, caches and logs do not belong in this archive.
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+__pycache__/
+node_modules/
+.playwright-cli/
+work/
+.codex/
